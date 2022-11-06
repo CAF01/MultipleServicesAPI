@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "txBCsunj5gsRVEW1Pg1ryJFz3hSoZH91swLdq6OvU3s=",
+  "Source": "MultipleServicesAPP.API",
+  "BasePath": "_content/MultipleServicesAPP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

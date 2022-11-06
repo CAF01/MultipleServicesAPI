@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\bin\Debug\net6.0\MultipleServicesAPP.Helpers.deps.json
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\bin\Debug\net6.0\MultipleServicesAPP.Helpers.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\bin\Debug\net6.0\MultipleServicesAPP.Helpers.pdb
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.AssemblyInfo.cs
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\refint\MultipleServicesAPP.Helpers.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\MultipleServicesAPP.Helpers.pdb
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Helpers\obj\Debug\net6.0\ref\MultipleServicesAPP.Helpers.dll

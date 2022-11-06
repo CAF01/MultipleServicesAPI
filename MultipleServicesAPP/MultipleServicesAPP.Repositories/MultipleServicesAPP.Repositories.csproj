@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\MultipleServicesAPP.Entities.csproj" />
+    <ProjectReference Include="..\Helpers\MultipleServicesAPP.Helpers.csproj" />
+    <ProjectReference Include="..\Resources\MultipleServicesAPP.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

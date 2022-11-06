@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\bin\Debug\net6.0\MultipleServicesAPP.Entities.deps.json
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\bin\Debug\net6.0\MultipleServicesAPP.Entities.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\bin\Debug\net6.0\MultipleServicesAPP.Entities.pdb
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.AssemblyInfo.cs
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\refint\MultipleServicesAPP.Entities.dll
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\MultipleServicesAPP.Entities.pdb
+C:\Users\Chris\Documents\C#\MultipleServicesAPP\Entities\obj\Debug\net6.0\ref\MultipleServicesAPP.Entities.dll
