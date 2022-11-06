@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.Entities", "Entities\MultipleServicesAPP.Entities.csproj", "{02B106CC-5EB0-468E-8596-ABA948780AB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.Helpers", "Helpers\MultipleServicesAPP.Helpers.csproj", "{6E2F12C6-73EF-44A9-B002-343F3B620AB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.Resources", "Resources\MultipleServicesAPP.Resources.csproj", "{8B0525C3-2FC3-4847-B974-9DF60A2B5DBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.Repositories", "MultipleServicesAPP.Repositories\MultipleServicesAPP.Repositories.csproj", "{780863DE-5ED1-457E-8B65-FF3139E444E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.Services", "MultipleServicesAPP.Services\MultipleServicesAPP.Services.csproj", "{13224C6D-BEF1-4F8F-8C3C-32E4B04FA5AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleServicesAPP.API", "MultipleServicesAPP.API\MultipleServicesAPP.API.csproj", "{4CE78520-B6E8-41DC-BD63-85E0EEB8EBCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64BD70BA-2D4B-4160-8FF0-E2F63D4EC12B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B106CC-5EB0-468E-8596-ABA948780AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B106CC-5EB0-468E-8596-ABA948780AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B106CC-5EB0-468E-8596-ABA948780AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B106CC-5EB0-468E-8596-ABA948780AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2F12C6-73EF-44A9-B002-343F3B620AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2F12C6-73EF-44A9-B002-343F3B620AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2F12C6-73EF-44A9-B002-343F3B620AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2F12C6-73EF-44A9-B002-343F3B620AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0525C3-2FC3-4847-B974-9DF60A2B5DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0525C3-2FC3-4847-B974-9DF60A2B5DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0525C3-2FC3-4847-B974-9DF60A2B5DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0525C3-2FC3-4847-B974-9DF60A2B5DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780863DE-5ED1-457E-8B65-FF3139E444E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780863DE-5ED1-457E-8B65-FF3139E444E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780863DE-5ED1-457E-8B65-FF3139E444E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780863DE-5ED1-457E-8B65-FF3139E444E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13224C6D-BEF1-4F8F-8C3C-32E4B04FA5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13224C6D-BEF1-4F8F-8C3C-32E4B04FA5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13224C6D-BEF1-4F8F-8C3C-32E4B04FA5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13224C6D-BEF1-4F8F-8C3C-32E4B04FA5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE78520-B6E8-41DC-BD63-85E0EEB8EBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE78520-B6E8-41DC-BD63-85E0EEB8EBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE78520-B6E8-41DC-BD63-85E0EEB8EBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE78520-B6E8-41DC-BD63-85E0EEB8EBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A092653-2840-40ED-A5EA-2B8A93E43F1B}
+	EndGlobalSection
+EndGlobal
